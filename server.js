@@ -37,6 +37,6 @@ res.send("hello world")
 })
 
 
-app.listen(3005,() =>{
+app.listen(process.env.PORT || 3005,() =>{
     console.log("server is running on 3005")
 }) 
