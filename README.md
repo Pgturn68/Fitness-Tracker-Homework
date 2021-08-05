@@ -14,6 +14,12 @@ Add exercises to a previous workout plan.
 Add new exercises to a new workout plan.
 View multiple the combined weight of multiple exercises on the stats page.
 
+# App
 ![fitness](https://user-images.githubusercontent.com/78170157/128289078-aab7f979-6e83-4036-8a13-6e14fbfaa89b.JPG)
+
+# Mongo
+
+![Mongo](https://user-images.githubusercontent.com/78170157/128387910-ff2d6c69-490f-420f-99b8-497703e0246a.JPG)
+
 
 This app was created by Paul Turner
