@@ -4,6 +4,8 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 
 GitHub link: https://github.com/Pgturn68/Fitness-Tracker-Homework
 
+Heroku link: https://paul-fitness-app.herokuapp.com/exercise
+
 
 # How to use
 When the user loads the page, they should be given the option to create a new workout, or continue with their last workout.
